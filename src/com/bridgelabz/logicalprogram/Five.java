@@ -1,5 +1,6 @@
 package Day6LogicalPrograms;
 
+import java.security.SecureRandom;
 import java.util.Random;
 
 public class Five {
